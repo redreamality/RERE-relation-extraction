@@ -20,3 +20,4 @@ get_partial/*
 # rere/BERT_TF2/*
 data/*
 !data/*/
+!data/*.py

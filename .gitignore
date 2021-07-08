@@ -1,0 +1,22 @@
+*.json
+*.zip
+*.h5
+*.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+tfhub/*
+**/.vs/*
+
+
+# other files
+plot/*
+get_partial/*
+# rere/BERT_TF2/*
+data/*
+!data/*/

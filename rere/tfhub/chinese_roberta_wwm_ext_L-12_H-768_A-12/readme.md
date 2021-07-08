@@ -1,0 +1,1 @@
+the pretrained model can be found in <https://github.com/ymcui/Chinese-BERT-wwm>

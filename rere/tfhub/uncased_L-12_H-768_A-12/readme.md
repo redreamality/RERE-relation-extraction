@@ -1,0 +1,1 @@
+a model can be downloaded in https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-12_H-768_A-12.zip

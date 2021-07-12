@@ -6,7 +6,7 @@ This repository contains the source code and dataset for the paper: **Revisiting
 
 Install all the dependencies in `requirements.txt`.
 
-Download the BERT-related files and follow the instructions in `tfhub/readme.md`
+Download the BERT-related files and follow the instructions in `tfhub/*/readme.md`
 Run`rere/bert-to-h5.py` to produce`bert_uncased.h5` and `chinese_roberta_wwm_ext.h5`.
 
 The models: ReRe and ReRe_LSTM, in table 3 are provided for reproducing in the dictionary `rere` and `rere_lstm`.
@@ -18,7 +18,7 @@ The data set in Figure 3 are provided in `data/FNexp`.The data sets are generate
 You can use the cmd`python extraction.py FNexp/{data_set_name}@{radio} train`, for example `python extraction.py FNexp/ske2019@0.1`,to train the corresponding model.
 
 ## Datasets
-Datasets will be provided separately in [this repo](https://github.com/redreamality/-RERE-data.git). 
+Datasets are provided separately in [this repo](https://github.com/redreamality/-RERE-data.git). 
 Including two new datasets NYT21 and SKE21 (the labeled testset of SKE2019).
 
 ## Usage and troubleshooting

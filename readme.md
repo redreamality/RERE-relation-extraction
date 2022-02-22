@@ -1,4 +1,9 @@
 # Revisiting the Negative Data of Distantly Supervised Relation Extraction
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-the-negative-data-of-distantly/relation-extraction-on-nyt10-hrl)](https://paperswithcode.com/sota/relation-extraction-on-nyt10-hrl?p=revisiting-the-negative-data-of-distantly)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-the-negative-data-of-distantly/relation-extraction-on-nyt11-hrl)](https://paperswithcode.com/sota/relation-extraction-on-nyt11-hrl?p=revisiting-the-negative-data-of-distantly)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-the-negative-data-of-distantly/relation-extraction-on-nyt21)](https://paperswithcode.com/sota/relation-extraction-on-nyt21?p=revisiting-the-negative-data-of-distantly)
+
 This repository contains the source code and dataset for the paper: **Revisiting the Negative Data of Distantly Supervised Relation Extraction**. Chenhao Xie, Jiaqing Liang, Jingping Liu, Chengsong Huang, Wenhao Huang, Yanghua Xiao. ACL 2021. [paper](https://arxiv.org/pdf/2105.10158.pdf)
 
 
